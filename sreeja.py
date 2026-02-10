@@ -1,16 +1,16 @@
-print("caution please enter roll number start from 12")
+print("enter roll number start from 12")
 
-libary_members= {12800: "balu",
+libary_members= {12800: "ranjana",
 
-                 12801:"lokesh",
+                 12801:"juhith",
 
-                 12802: "ramesh",
+                 12802: "lahari",
 
-                 12803: "sai",
+                 12803: "mallika",
 
-                 12804: "pavan",
+                 12804: "priya",
 
-                 12805: "raj kumar"}
+                 12805: "prabha sree"}
 
 print("libary system")
 
